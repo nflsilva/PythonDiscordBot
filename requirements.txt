@@ -1,0 +1,14 @@
+
+-- Talking Module --
+Phrase: A line of text;
+Admin: Some special user;
+
+- As an Admin, I want to create a new phrase, so it can be used by the bot;
+- As an Admin, I want to update an existing phrase, so it can be used by the bot;
+- As an Admin, I want to delete an existing phrase, so it can be used by the bot;
+- As an Admin, I want the bot to only accept changes to the Phrares in a specific channel, so it is used only by admins;
+
+- As a User, I want the Bot to responde when mentioned, so it can be shown in the chat;
+- As a User, I want the Bot to responde in any channel, so it can be shown in any chat;
+- As a User, I want Phrares to be keept persistently, so it can be used by the bot;
+
